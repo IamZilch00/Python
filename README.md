@@ -1,4 +1,5 @@
 # PythonCodeChallenges
 Repository for Projects used for practice and learning  for Python
 
-Hello Coder may first real file will be checkin :)
+#June 7 2020
+  * File = Censor_Dispenser.py
